@@ -26,3 +26,8 @@
 /module_1/lesson5_1/x64
 /module_1/lesson5_1/*.filters
 /module_1/lesson5_1/*.user
+/module_1/lesson5_2/.vs
+.vs
+*.user
+*.filters
+x64
